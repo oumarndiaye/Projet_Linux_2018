@@ -8,14 +8,14 @@ Le script appelé *projet_Linux_Oumar_Ndiaye_M2_MoSEF.bash* va éxécuter les ac
 
 L'exécution du script *projet_Linux_Oumar_Ndiaye_M2_MoSEF.bash* permet la réalisation de toutes les étapes du projet. Vous pouvez exécuter celui-ci de deux manières :
  - en inscrivant la commande suivante dans le terminal :
-,,,
+```
 bash projet_Linux_Oumar_Ndiaye_M2_MoSEF.bash
-,,,
+```
  - en inscrivant les deux commandes successivement dans le terminal :
-,,, 
+```
 chmod +x projet_Linux_Oumar_Ndiaye_M2_MoSEF.bash
 ./projet_Linux_Oumar_Ndiaye_M2_MoSEF.bash
-,,,
+```
 
 ## Étapes du projet
 
@@ -42,9 +42,9 @@ Le projet sera par la suite copié dans le dossier choisi.
 3. Créer le script fich_semaine_derniere.sh pour qu'il effectue les actions suivantes :
 
 Le programme crée le script *fich_semaine_derniere.sh* à l'aide d'une commande du type :
-'''
+```
 echo " le script " > fich_semaine_derniere.sh
-'''
+```
 Ce script va renvoyer une formule de courtoisie puis demander à l'utilisateur le nom du répertoire qu'il souhaite afficher (c'est à dire le répertoire pour lequel il souhaite lister les objets).
 
 4. Commiter le fichier dans votre dépôt local puis pousser les modifications dans le dépôt distant
@@ -58,9 +58,9 @@ Le script crée une branche appelée ***script_v2***.
 6. Editer le script dans la nouvelle branche pour qu'il affiche tous les fichiers modifiés il y a moins d'une semaine (du répertoire saisi par l'utilisateur).
 
 Le programme va éditer le script *fich_semaine_derniere.sh* sur la branche ***script_v2***. Il va donc bouger sur cette branche puis éditer le scrit à l'aide d'une commande du type :
-'''
+```
 echo " lignes à rajouter à la fin du script " >> fich_semaine_derniere.sh
-'''
+```
 
 7. Pousser les changements dans votre dépôt distant
 
