@@ -21,7 +21,7 @@ chmod +x projet_Linux_Oumar_Ndiaye_M2_MoSEF.bash
 
 1. Forker ce dépôt dans votre compte Github
 
-Cette étape sera réalisée au préalable par l'utilisateur à partir de son navigateur, puis qu'il est impossible de fork un projet à partir du terminal.
+Cette étape sera réalisée au préalable par l'utilisateur à partir de son navigateur, puisqu'il est impossible de fork un projet à partir du terminal.
 
 Etapes :
 - Allez sur le lien suivant : https://github.com/ambalde/MoSEF-projet-2018
